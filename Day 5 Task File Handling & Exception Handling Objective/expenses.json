@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Breakfast",
+        "category": "Food",
+        "amount": 300,
+        "date": "2024-01-15"
+    },
+    {
+        "title": "Bus fare",
+        "category": "Transport",
+        "amount": 150,
+        "date": "2024-01-15"
+    },
+    {
+        "title": "Movie",
+        "category": "Entertainment",
+        "amount": 800,
+        "date": "2024-01-16"
+    },
+    {
+        "title": "Lunch",
+        "category": "Food",
+        "amount": 500,
+        "date": "2024-01-16"
+    },
+    {
+        "title": "Taxi",
+        "category": "Transport",
+        "amount": 250,
+        "date": "2024-01-16"
+    }
+]
