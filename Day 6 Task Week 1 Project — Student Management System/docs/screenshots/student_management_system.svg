@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f4f7fb"/>
+  <rect x="80" y="60" width="1040" height="680" rx="20" fill="#ffffff" stroke="#dfeaf7" stroke-width="2"/>
+  <text x="600" y="140" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#1f2937">Student Management System</text>
+  <rect x="140" y="190" width="920" height="430" rx="14" fill="#eef6ff"/>
+  <text x="180" y="240" font-family="Arial" font-size="26" fill="#0f172a">1. Add New Student</text>
+  <text x="180" y="285" font-family="Arial" font-size="26" fill="#0f172a">2. View All Students</text>
+  <text x="180" y="330" font-family="Arial" font-size="26" fill="#0f172a">3. Search Student by ID</text>
+  <text x="180" y="375" font-family="Arial" font-size="26" fill="#0f172a">4. Update Student Information</text>
+  <text x="180" y="420" font-family="Arial" font-size="26" fill="#0f172a">5. Delete Student Record</text>
+  <text x="180" y="465" font-family="Arial" font-size="26" fill="#0f172a">6. Academic Operations</text>
+  <text x="180" y="510" font-family="Arial" font-size="26" fill="#0f172a">7. Exit</text>
+  <rect x="660" y="240" width="330" height="150" rx="12" fill="#dbeafe"/>
+  <text x="825" y="285" text-anchor="middle" font-family="Arial" font-size="22" fill="#1d4ed8">Sample Student</text>
+  <text x="825" y="325" text-anchor="middle" font-family="Arial" font-size="18" fill="#1f2937">ID: S-101</text>
+  <text x="825" y="355" text-anchor="middle" font-family="Arial" font-size="18" fill="#1f2937">Name: Ali Khan</text>
+  <text x="825" y="385" text-anchor="middle" font-family="Arial" font-size="18" fill="#1f2937">Department: CS</text>
+  <rect x="140" y="660" width="920" height="40" rx="8" fill="#0f172a"/>
+  <text x="600" y="688" text-anchor="middle" font-family="Arial" font-size="20" fill="#ffffff">JSON File Storage + Beginner-Friendly CLI</text>
+</svg>

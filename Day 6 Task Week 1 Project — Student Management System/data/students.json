@@ -1,0 +1,16 @@
+[
+    {
+        "student_id": "S-100",
+        "name": "Test Student",
+        "department": "CS",
+        "age": 21,
+        "email": "test@example.com",
+        "marks": {
+            "Math": 80,
+            "Science": 90,
+            "English": 85,
+            "Computer": 95,
+            "History": 88
+        }
+    }
+]
