@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="50" y="70" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#111827">Class Performance Overview</text>
+  <text x="50" y="105" font-family="Arial, sans-serif" font-size="18" fill="#475569">NumPy statistical analysis summary</text>
+
+  <rect x="50" y="150" width="250" height="120" rx="18" fill="#dbeafe"/>
+  <text x="70" y="190" font-family="Arial, sans-serif" font-size="18" fill="#1e3a8a">Total Marks</text>
+  <text x="70" y="235" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#1e3a8a">4223</text>
+
+  <rect x="330" y="150" width="250" height="120" rx="18" fill="#dcfce7"/>
+  <text x="350" y="190" font-family="Arial, sans-serif" font-size="18" fill="#166534">Average</text>
+  <text x="350" y="235" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#166534">84.46</text>
+
+  <rect x="610" y="150" width="250" height="120" rx="18" fill="#fef3c7"/>
+  <text x="630" y="190" font-family="Arial, sans-serif" font-size="18" fill="#92400e">Median</text>
+  <text x="630" y="235" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#92400e">86.50</text>
+
+  <rect x="890" y="150" width="250" height="120" rx="18" fill="#fce7f3"/>
+  <text x="910" y="190" font-family="Arial, sans-serif" font-size="18" fill="#9d174d">Std Dev</text>
+  <text x="910" y="235" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#9d174d">7.59</text>
+
+  <text x="50" y="360" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#111827">Performance Insights</text>
+  <text x="50" y="405" font-family="Arial, sans-serif" font-size="20" fill="#334155">Top Student: Ali</text>
+  <text x="50" y="445" font-family="Arial, sans-serif" font-size="20" fill="#334155">Lowest Student: Usman</text>
+  <text x="50" y="485" font-family="Arial, sans-serif" font-size="20" fill="#334155">Highest Marks: 97</text>
+  <text x="50" y="525" font-family="Arial, sans-serif" font-size="20" fill="#334155">Lowest Marks: 68</text>
+
+  <text x="520" y="360" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#111827">Subject Averages</text>
+  <text x="520" y="405" font-family="Arial, sans-serif" font-size="18" fill="#334155">Maths: 82.10</text>
+  <text x="520" y="440" font-family="Arial, sans-serif" font-size="18" fill="#334155">Physics: 84.20</text>
+  <text x="520" y="475" font-family="Arial, sans-serif" font-size="18" fill="#334155">Chemistry: 83.20</text>
+  <text x="520" y="510" font-family="Arial, sans-serif" font-size="18" fill="#334155">Biology: 84.00</text>
+  <text x="520" y="545" font-family="Arial, sans-serif" font-size="18" fill="#334155">Computer Science: 88.80</text>
+
+  <text x="50" y="610" font-family="Arial, sans-serif" font-size="18" fill="#1f2937">Overall Summary: Good overall performance. Most students are meeting the expected academic standard.</text>
+</svg>
