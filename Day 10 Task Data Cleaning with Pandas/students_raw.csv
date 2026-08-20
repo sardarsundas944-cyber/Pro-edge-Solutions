@@ -1,0 +1,14 @@
+student_id,name,age,gender,grade,attendance,email
+S001, ali khan,20,Male,A,92,ali@example.com
+S002,SARA AHMED,21,female,B,88,sara@example.com
+S003,Usman Raza,twenty,Male,A,95,usman@example.com
+S004,ayesha malik,,FEMALE,C,78,ayesha@example.com
+S005,Hamza Noor,22,male,B,88,
+S006,Noor Fatima,19,Female,,91,noor@example.com
+S007,Bilal Ahmed,20,MALE,A,87,bilal@example.com
+S008,Zainab Ali,21,female,B,89,zainab@example.com
+S009,Ahmed Raza,twenty two,Male,C,75,ahmed@example.com
+S010,Maham Iqbal,20,Female,A,93,maham@example.com
+S010,Maham Iqbal,20,Female,A,93,maham@example.com
+S011,  danish  ali  ,23, male , b ,eighty,danish@example.com
+S012,Hira Shah,19,Female,A,90,hira@example.com
