@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <rect width="1200" height="650" fill="#f4f7fb"/>
+  <rect x="40" y="35" width="1120" height="580" rx="10" fill="#ffffff" stroke="#d8e0eb"/>
+  <rect x="40" y="35" width="1120" height="76" rx="10" fill="#17324d"/>
+  <rect x="40" y="90" width="1120" height="21" fill="#17324d"/>
+  <text x="76" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="700">Student Database Analysis</text>
+  <text x="76" y="151" fill="#17324d" font-family="Arial, sans-serif" font-size="23" font-weight="700">Query 7-8: Department summary</text>
+  <text x="76" y="188" fill="#64748b" font-family="Arial, sans-serif" font-size="17">LEFT JOIN Departments with Students, GROUP BY department</text>
+  <rect x="76" y="226" width="1048" height="58" fill="#e8eef5"/>
+  <text x="100" y="262" fill="#17324d" font-family="Arial, sans-serif" font-size="18" font-weight="700">Department</text>
+  <text x="620" y="262" fill="#17324d" font-family="Arial, sans-serif" font-size="18" font-weight="700">Students</text>
+  <text x="860" y="262" fill="#17324d" font-family="Arial, sans-serif" font-size="18" font-weight="700">Average marks</text>
+  <line x1="76" y1="284" x2="1124" y2="284" stroke="#c5d1df"/>
+  <text x="100" y="333" fill="#334155" font-family="Arial, sans-serif" font-size="18">Data Science</text><text x="620" y="333" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">3</text><text x="860" y="333" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">88.33</text>
+  <line x1="76" y1="354" x2="1124" y2="354" stroke="#e2e8f0"/>
+  <text x="100" y="403" fill="#334155" font-family="Arial, sans-serif" font-size="18">Business Administration</text><text x="620" y="403" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">3</text><text x="860" y="403" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">82.00</text>
+  <line x1="76" y1="424" x2="1124" y2="424" stroke="#e2e8f0"/>
+  <text x="100" y="473" fill="#334155" font-family="Arial, sans-serif" font-size="18">Computer Science</text><text x="620" y="473" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">4</text><text x="860" y="473" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">81.13</text>
+  <line x1="76" y1="494" x2="1124" y2="494" stroke="#e2e8f0"/>
+  <text x="100" y="543" fill="#334155" font-family="Arial, sans-serif" font-size="18">Electrical Engineering</text><text x="620" y="543" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">2</text><text x="860" y="543" fill="#0f766e" font-family="Arial, sans-serif" font-size="18">70.50</text>
+  <text x="76" y="588" fill="#64748b" font-family="Arial, sans-serif" font-size="15">Mathematics appears with 0 students in the complete result</text>
+</svg>
