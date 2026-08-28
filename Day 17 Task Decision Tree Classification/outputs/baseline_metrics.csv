@@ -1,0 +1,5 @@
+metric,training_score,testing_score
+accuracy,1.0,0.9122807017543859
+precision,1.0,0.9558823529411765
+recall,1.0,0.9027777777777778
+f1_score,1.0,0.9285714285714286
