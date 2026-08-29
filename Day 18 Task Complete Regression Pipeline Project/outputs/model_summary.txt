@@ -1,0 +1,6 @@
+Regression Model Summary
+=======================
+MAE: 0.5295
+MSE: 0.5255
+RMSE: 0.7249
+R2: 0.6053
