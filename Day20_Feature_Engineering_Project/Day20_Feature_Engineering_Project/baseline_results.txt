@@ -1,0 +1,6 @@
+Day 19 Baseline Model Results
+Features used: ['age', 'gender', 'city', 'monthly_charges', 'tenure_months', 'contract_type', 'support_calls', 'total_charges']
+Accuracy: 0.855
+Precision: 0.7778
+Recall: 0.5714
+F1 Score: 0.6588

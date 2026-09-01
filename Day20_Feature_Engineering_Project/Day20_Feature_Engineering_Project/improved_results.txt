@@ -1,0 +1,7 @@
+Day 20 Improved Model Results
+All features before selection: ['age', 'monthly_charges', 'tenure_months', 'support_calls', 'signup_year', 'charge_per_tenure', 'high_support_calls', 'is_long_term', 'log_total_charges', 'gender_Male', 'city_Karachi', 'city_Lahore', 'city_Peshawar', 'contract_type_One Year', 'contract_type_Two Year']
+Selected features: ['age', 'monthly_charges', 'tenure_months', 'support_calls', 'charge_per_tenure', 'high_support_calls', 'is_long_term', 'log_total_charges', 'contract_type_One Year', 'contract_type_Two Year']
+Accuracy: 0.865
+Precision: 0.8438
+Recall: 0.551
+F1 Score: 0.6667
