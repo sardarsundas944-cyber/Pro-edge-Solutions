@@ -1,0 +1,9 @@
+PERFORMANCE COMPARISON: BASELINE VS OPTIMIZED
+
+Metric        Baseline      Optimized
+Accuracy      0.9649        0.9649
+Precision     0.9589        0.9589
+Recall        0.9859        0.9859
+F1 Score      0.9722        0.9722
+
+Accuracy Improvement: 0.0 %

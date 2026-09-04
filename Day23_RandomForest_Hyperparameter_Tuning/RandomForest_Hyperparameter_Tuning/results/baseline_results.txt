@@ -1,0 +1,10 @@
+BASELINE RANDOM FOREST MODEL (DEFAULT PARAMETERS)
+Accuracy: 0.9649122807017544
+Precision: 0.958904109589041
+Recall: 0.9859154929577465
+F1 Score: 0.9722222222222222
+Training Time (seconds): 0.1503281593322754
+n_estimators: 100
+max_depth: None
+min_samples_split: 2
+min_samples_leaf: 1
