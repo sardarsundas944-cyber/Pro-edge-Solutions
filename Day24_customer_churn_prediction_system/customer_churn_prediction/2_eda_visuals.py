@@ -1,0 +1,46 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("outputs/cleaned_data.csv")
+
+plt.figure(figsize=(6, 5))
+df["Churn"].value_counts().plot(kind="bar", color=["skyblue", "salmon"])
+plt.title("Churn Distribution")
+plt.xlabel("Churn")
+plt.ylabel("Number of Customers")
+plt.xticks(rotation=0)
+plt.tight_layout()
+plt.savefig("screenshots/01_churn_distribution.png")
+plt.close()
+
+plt.figure(figsize=(7, 5))
+df.boxplot(column="tenure", by="Churn")
+plt.title("Tenure vs Churn")
+plt.suptitle("")
+plt.xlabel("Churn")
+plt.ylabel("Tenure (months)")
+plt.tight_layout()
+plt.savefig("screenshots/02_tenure_vs_churn.png")
+plt.close()
+
+plt.figure(figsize=(7, 5))
+df.boxplot(column="MonthlyCharges", by="Churn")
+plt.title("Monthly Charges vs Churn")
+plt.suptitle("")
+plt.xlabel("Churn")
+plt.ylabel("Monthly Charges")
+plt.tight_layout()
+plt.savefig("screenshots/03_monthlycharges_vs_churn.png")
+plt.close()
+
+plt.figure(figsize=(8, 5))
+pd.crosstab(df["Contract"], df["Churn"]).plot(kind="bar")
+plt.title("Contract Type vs Churn")
+plt.xlabel("Contract Type")
+plt.ylabel("Number of Customers")
+plt.xticks(rotation=0)
+plt.tight_layout()
+plt.savefig("screenshots/04_contract_vs_churn.png")
+plt.close()
+
+print("EDA plots saved in screenshots folder")

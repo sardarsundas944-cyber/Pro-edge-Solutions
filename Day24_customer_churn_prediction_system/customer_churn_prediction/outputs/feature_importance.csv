@@ -1,0 +1,16 @@
+Feature,Importance
+MonthlyCharges,0.19227299893116448
+AvgMonthlySpend,0.1254472862260501
+Contract_Two year,0.09814440801608725
+HighMonthlyCharge,0.09031197770104124
+InternetService_Fiber optic,0.08805279911725548
+Contract_One year,0.0631585735222592
+PaymentMethod_Electronic check,0.056688809502933646
+TotalCharges,0.05037927883504382
+tenure,0.04426164744997885
+TotalServices,0.016943053791132756
+TechSupport_No internet service,0.013378945323842525
+InternetService_No,0.012353609460395052
+PaperlessBilling_Yes,0.010261717794825204
+OnlineSecurity_No internet service,0.009732293924271744
+PaymentMethod_Mailed check,0.009432885885103782

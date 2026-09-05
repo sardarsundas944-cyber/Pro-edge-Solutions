@@ -1,0 +1,5 @@
+Stage,Model,Accuracy,F1 Score
+Before Feature Engineering,Logistic Regression,0.68,0.5949
+Before Feature Engineering,Random Forest,0.695,0.4741
+After Feature Engineering,Logistic Regression,0.6825,0.5968
+After Feature Engineering,Random Forest,0.71,0.5167
