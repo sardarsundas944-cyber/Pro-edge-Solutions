@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "irisml"
+version = "0.1.0"
+description = "A simple installable machine learning package for iris classification"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "joblib",
+    "pyyaml"
+]
+
+[project.scripts]
+irisml-train = "irisml.cli:train_cli"
+irisml-predict = "irisml.cli:predict_cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]

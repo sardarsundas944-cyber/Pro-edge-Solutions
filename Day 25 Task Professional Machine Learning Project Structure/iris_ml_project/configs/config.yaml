@@ -1,0 +1,5 @@
+data_path: data/iris.csv
+model_path: models/iris_model.joblib
+test_size: 0.2
+random_state: 42
+n_estimators: 100
