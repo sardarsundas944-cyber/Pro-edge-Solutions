@@ -1,0 +1,5 @@
+Model Name,Training Date,Dataset Name,n_estimators,max_depth,Accuracy,Precision,Recall,F1 Score,Model Version
+iris_random_forest_v1.pkl,2026-09-09 05:21:20,Iris Dataset,5,1,0.6333,0.4833,0.6667,0.5402,1
+iris_random_forest_v2.pkl,2026-09-09 05:21:21,Iris Dataset,30,3,1.0,1.0,1.0,1.0,2
+iris_random_forest_v3.pkl,2026-09-09 05:21:22,Iris Dataset,150,6,1.0,1.0,1.0,1.0,3
+iris_random_forest_v4.pkl,2026-09-09 05:21:25,Iris Dataset,60,4,1.0,1.0,1.0,1.0,4
