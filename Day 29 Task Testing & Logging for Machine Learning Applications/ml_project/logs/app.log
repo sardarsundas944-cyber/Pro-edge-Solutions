@@ -1,0 +1,12 @@
+2026-09-11 03:04:40,974 - main - INFO - Application started
+2026-09-11 03:04:40,976 - data_preprocessing - INFO - Data loaded successfully with 20 rows
+2026-09-11 03:04:40,976 - data_preprocessing - INFO - No missing values found during cleaning
+2026-09-11 03:04:40,977 - feature_engineering - INFO - Created new feature: size_per_bedroom
+2026-09-11 03:04:40,979 - data_preprocessing - INFO - Data split into train and test sets
+2026-09-11 03:04:40,981 - feature_engineering - INFO - Features scaled successfully
+2026-09-11 03:04:40,982 - model - INFO - Model training completed successfully
+2026-09-11 03:04:40,983 - model - INFO - Model saved to models/house_price_model.pkl
+2026-09-11 03:04:40,983 - model - INFO - Model loaded successfully from models/house_price_model.pkl
+2026-09-11 03:04:40,984 - predict - INFO - Prediction generated for 4 rows
+2026-09-11 03:04:40,984 - main - INFO - Sample predictions: [250365.72693826 261174.64307175 171975.25214862 304036.69684908]
+2026-09-11 03:04:40,984 - main - INFO - Application finished successfully
