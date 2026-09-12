@@ -1,0 +1,13 @@
+2026-09-12 04:33:36,658 - data_processing - INFO - Raw data created and saved at /home/claude/ml_pipeline_project/data/raw/wine_data.csv
+2026-09-12 04:33:36,659 - train - INFO - Training started
+2026-09-12 04:33:36,660 - data_processing - INFO - Loaded raw data with shape (178, 14)
+2026-09-12 04:33:36,662 - data_processing - INFO - Data split into train and test sets
+2026-09-12 04:33:36,751 - train - INFO - Model training finished
+2026-09-12 04:33:36,759 - train - INFO - Model accuracy: 1.0
+2026-09-12 04:33:36,759 - train - INFO - Model f1 score: 1.0
+2026-09-12 04:33:36,783 - train - INFO - Model saved at /home/claude/ml_pipeline_project/models/wine_quality_model_v1.0.0.pkl
+2026-09-12 04:33:36,802 - train - INFO - Latest model updated at /home/claude/ml_pipeline_project/models/latest_model.pkl
+2026-09-12 04:33:36,802 - experiment_tracker - INFO - Experiment logged for model wine_quality_model version 1.0.0
+2026-09-12 04:33:36,804 - data_processing - INFO - Loaded raw data with shape (178, 14)
+2026-09-12 04:33:36,819 - predict - INFO - Model loaded from /home/claude/ml_pipeline_project/models/latest_model.pkl
+2026-09-12 04:33:36,825 - predict - INFO - Prediction made for 5 rows

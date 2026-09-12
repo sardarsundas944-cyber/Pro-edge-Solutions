@@ -1,0 +1,2 @@
+model_name,training_date,parameters,accuracy,f1_score,model_version
+wine_quality_model,2026-09-12 04:33:36,"{'n_estimators': 100, 'max_depth': 5, 'random_state': 42}",1.0,1.0,1.0.0
