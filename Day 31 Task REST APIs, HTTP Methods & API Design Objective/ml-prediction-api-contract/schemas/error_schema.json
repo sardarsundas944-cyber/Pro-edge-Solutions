@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "error": {
+      "type": "string",
+      "description": "Short error name, example: Bad Request"
+    },
+    "message": {
+      "type": "string",
+      "description": "Human readable explanation of what went wrong"
+    }
+  },
+  "required": ["error", "message"]
+}

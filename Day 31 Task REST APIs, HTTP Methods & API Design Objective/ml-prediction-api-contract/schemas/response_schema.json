@@ -1,0 +1,15 @@
+{
+  "endpoint": "/predict",
+  "type": "object",
+  "properties": {
+    "prediction": {
+      "type": "string",
+      "description": "Predicted class or value from the model"
+    },
+    "confidence": {
+      "type": "number",
+      "description": "Confidence score between 0 and 1"
+    }
+  },
+  "required": ["prediction", "confidence"]
+}

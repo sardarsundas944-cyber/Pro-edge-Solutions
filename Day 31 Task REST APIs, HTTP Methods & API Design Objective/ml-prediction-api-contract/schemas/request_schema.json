@@ -1,0 +1,15 @@
+{
+  "endpoint": "/predict",
+  "method": "POST",
+  "type": "object",
+  "properties": {
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "description": "List of numeric input feature values"
+    }
+  },
+  "required": ["features"]
+}
