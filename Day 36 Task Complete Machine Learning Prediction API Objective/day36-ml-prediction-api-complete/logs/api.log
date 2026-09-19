@@ -1,0 +1,9 @@
+2026-09-14 10:36:20,440 - INFO - Model loaded successfully
+2026-09-14 10:36:20,441 - INFO - Request received: GET /health
+2026-09-14 10:36:20,441 - INFO - Response status: 200 for /health
+2026-09-14 10:36:20,441 - INFO - Request received: POST /predict
+2026-09-14 10:36:20,454 - INFO - Prediction made: input=[5.1, 3.5, 1.4, 0.2] -> setosa (1.0)
+2026-09-14 10:36:20,454 - INFO - Response status: 200 for /predict
+2026-09-14 10:36:20,454 - INFO - Request received: POST /predict
+2026-09-14 10:36:20,454 - WARNING - Validation failed on /predict: [{'field': 'sepal_length', 'message': 'Input should be greater than 0'}]
+2026-09-14 10:36:20,455 - INFO - Response status: 422 for /predict
