@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: ml-prediction-api
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: REDIS_HOST
+        fromService:
+          name: ml-prediction-redis
+          type: redis
+          property: host
+      - key: REDIS_PORT
+        fromService:
+          name: ml-prediction-redis
+          type: redis
+          property: port
+      - key: API_KEY
+        sync: false
+
+  - type: redis
+    name: ml-prediction-redis
+    plan: free
+    ipAllowList: []
